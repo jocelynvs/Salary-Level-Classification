@@ -1,4 +1,4 @@
-# Salary Level Classification Machine Learning
+# Salary Level Classification
 
 ## Uses various Machine Learning algorithm to classify levels of salary (high, average, low)
 ### Data Source: https://www.kaggle.com/datasets/canggih/jog-description-and-salary-in-indonesia
@@ -15,11 +15,11 @@ The data used in this project is Job Description and Salary in Indonesia. Data w
 - Check correlation
 - Feature Selection
 - Label Encoding
-- Data Spliting (Training, Validation, and Testing Set)
+- Data Splitting (Training, Validation, and Testing Set)
 - Data Standarization (using standard scaler)
 #### 5. Modeling & Tuning 
-- Individual Classifiers
-- Ensemble Methods
+- Individual Classifiers: Logistic Regression, KNN, Decision Trees, SVM
+- Ensemble Methods: Voting, Bagging, Boosting, Random Forest
 - Hyperparameter Tuning
 #### 6. Evaluation
 Evaluate the model using Confusion Matrix
