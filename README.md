@@ -1,6 +1,6 @@
 # Salary Level Classification
 
-## Uses various Machine Learning algorithm to classify levels of salary (high, average, low)
+## Uses individual classifiers and Ensemble Methods to classify levels of salary (high, average, low)
 ### Data Source: https://www.kaggle.com/datasets/canggih/jog-description-and-salary-in-indonesia
 ### Steps:
 #### 1. Load Libaries & Datasets
