@@ -26,4 +26,4 @@ Evaluate the model using Confusion Matrix
 #### 7. Classify Testing Set
 Classify the salary level using the best model
 
-#### For better understanding, view the above code and file report (Salary_Prediction_Paper.pdf).
+#### For better understanding, view the above code and my paper publication (https://ieeexplore.ieee.org/document/10127828).
