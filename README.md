@@ -3,9 +3,9 @@
 This repository contains the implementation of our study on **salary level classification in Indonesia** using both **individual machine learning classifiers** and **ensemble learning methods**.
 
 The objective is to classify a job posting into one of three salary levels:
-- 🟢 Rendah (Low)
-- 🟡 Sedang (Medium)
-- 🔴 Tinggi (High)
+- Rendah (Low)
+- Sedang (Medium)
+- Tinggi (High)
 
 The complete implementation follows the methodology presented in our IEEE publication.
 
@@ -182,17 +182,6 @@ Salary Level Prediction
 # Results
 
 The study compares multiple individual and ensemble machine learning algorithms. Among the evaluated methods, **Random Forest** and **Bagging Classifier** achieved the best overall performance after hyperparameter tuning, with strong capability in classifying salary levels into **Low**, **Medium**, and **High** categories.
-
----
-
-# Citation
-
-If you use this repository, please cite our paper:
-
-> J. V. Siswanto, L. A. Castilani, N. H. Winata, N. C. Nugraha and N. T. M. Sagala, "Salary Classification & Prediction based on Job Field and Location using Ensemble Methods," 2023 International Conference on Computer Science, Information Technology and Engineering (ICCoSITE), Jakarta, Indonesia, 2023, pp. 325-330, doi: 10.1109/ICCoSITE57641.2023.10127828.
-
-Publication:
-https://ieeexplore.ieee.org/document/10127828
 
 ---
 
