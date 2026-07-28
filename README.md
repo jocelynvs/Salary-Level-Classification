@@ -41,7 +41,7 @@ The dataset contains approximately **34,700 Indonesian job postings**, including
 ├── 3_modeling.ipynb                # Model training, tuning, and evaluation
 ├── preprocessed_data_encoded.csv   # Final encoded dataset
 ├── preprocessed_data_unencoded.csv # Cleaned dataset before encoding
-└── README.md
+└── README.md                       # Project documentation and overview
 ```
 
 ---
